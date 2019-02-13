@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yogurt_3.jpg</filename>
+	<path>D:\r-cnn\data\image\train\yogurt_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yogurt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>347</ymin>
+			<xmax>643</xmax>
+			<ymax>837</ymax>
+		</bndbox>
+	</object>
+</annotation>

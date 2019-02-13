@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>milk2_20.jpg</filename>
+	<path>D:\r-cnn\data\image\train\milk2_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mlik2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>145</ymin>
+			<xmax>509</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+</annotation>
